@@ -1,0 +1,67 @@
+[
+ {
+   "StudentName": "Emma Watson",
+   "HallName": "Alumni Hall",
+   "RoomSpaceDescription": "AH-002E1-1"
+ },
+ {
+   "StudentName": "Enoch Dargie",
+   "HallName": "Alumni Hall",
+   "RoomSpaceDescription": "AH-002K1-1"
+ },
+ {
+   "StudentName": "Karlie Kloss",
+   "HallName": "Alumni Hall",
+   "RoomSpaceDescription": "AH-002N2-1"
+ },
+ {
+   "StudentName": "Emmaline Cutting",
+   "HallName": "Alumni Hall",
+   "RoomSpaceDescription": "AH-002C2-1"
+ },
+ {
+   "StudentName": "Dia Telesco",
+   "HallName": "Coral Tower",
+   "RoomSpaceDescription": "CO-0403C-1"
+ },
+ {
+   "StudentName": "Andrew Hamilton",
+   "HallName": "Coral Tower",
+   "RoomSpaceDescription": "CO-0404C-2"
+ },
+ {
+   "StudentName": "Many Hannum",
+   "HallName": "Coral Tower",
+   "RoomSpaceDescription": "CO-0405C-1"
+ },
+ {
+   "StudentName": "Ayako Abate",
+   "HallName": "Coral Tower",
+   "RoomSpaceDescription": "CO-0406C-1"
+ },
+ {
+   "StudentName": "Shenita Colby",
+   "HallName": "Palladium Hall",
+   "RoomSpaceDescription": "PA-0401A-2"
+ },
+ {
+   "StudentName": "Shanell Oxford",
+   "HallName": "Palladium Hall",
+   "RoomSpaceDescription": "PA-0402A-1"
+ },
+ {
+   "StudentName": "Casey Lee",
+   "HallName": "Palladium Hall",
+   "RoomSpaceDescription": "PA-0402A-2"
+ },
+ {
+   "StudentName": "Trista Leight",
+   "HallName": "Palladium Hall",
+   "RoomSpaceDescription": "PA-0402B-1"
+ },
+ {
+   "StudentName": "Petronila Haslam",
+   "HallName": "Palladium Hall",
+   "RoomSpaceDescription": "PA-0402B-2"
+ }
+]

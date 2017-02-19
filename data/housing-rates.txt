@@ -1,0 +1,37 @@
+[
+ {
+   "HallName": "Alumni Hall",
+   "Type": "Apartment",
+   "RoomType": "Private Room in Suite",
+   "Capacity": 1,
+   "SemesterRate": 10556
+ },
+ {
+   "HallName": "Coral Tower",
+   "Type": "Apartment",
+   "RoomType": "Efficiency Room in Suite",
+   "Capacity": 2,
+   "SemesterRate": 6524
+ },
+ {
+   "HallName": "Coral Tower",
+   "Type": "Apartment",
+   "RoomType": "Private Room in Suite",
+   "Capacity": 1,
+   "SemesterRate": 9247
+ },
+ {
+   "HallName": "Palladium Hall",
+   "Type": "Apartment",
+   "RoomType": "Shared Room in Suite or Loft",
+   "Capacity": 2,
+   "SemesterRate": 7942
+ },
+ {
+   "HallName": "Palladium Hall",
+   "Type": "Apartment",
+   "RoomType": "Private Room in Suite or Loft",
+   "Capacity": 1,
+   "SemesterRate": 9247
+ }
+]
