@@ -2,13 +2,29 @@
 <html>
 <head>
 	<title>STHAP</title>
-	<link rel="stylesheet" type="text/css" href="main.css">
 	<script href="main.js"></script>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+  <link rel="stylesheet" type="text/css" href="secondPage.css">
+
+
+
 </head>
 <body>
 <h1>Tell us about your preferences</h1>
-<p>Price range</p>
-<select name="select">
+
+<section>
+    <p  id= "priceRange">Price Range</p>
+<select name="select1" class="form-control">
   <option value="value1">$20</option> 
   <option value="value2" selected>$25</option>
   <option value="value3">$30</option>
@@ -22,8 +38,8 @@
 
 
 
-<p>Room Type</p>
-<select name="select">
+<p id="roomType" >Room Type</p>
+<select name="select2" class="form-control">
   <option value="value1">$20</option> 
   <option value="value2" selected>$25</option>
   <option value="value3">$30</option>
@@ -31,11 +47,11 @@
 </select>
 
 
+<br>
 
 
-
-<p>Location</p>
-<select name="select">
+<p id="location">Location</p>
+<select name="select3" class="form-control">
   <option value="value1">$20</option> 
   <option value="value2" selected>$25</option>
   <option value="value3">$30</option>
@@ -43,6 +59,26 @@
 </select>
 <br>
 <a href="../thirdPage/thirdPage.html"><button type="button" class="btn1">Proceed</button></a>
+
+</section>
+
+
+
+
+
+
+
+
+
+
+<section id="navDiv">
+    <ul id="nav">
+      
+    </ul>
+    <a href="#" id="logoA" "><img src="../../s.png" style="height: 30px; width: 30px; " ></a>
+  </section> 
+
+
 
 
 </body>

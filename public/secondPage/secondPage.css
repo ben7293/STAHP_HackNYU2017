@@ -1,0 +1,137 @@
+body {
+	background-color: rgb(243,229,245);
+}
+#navDiv {
+	background-color: #9C27B0; 
+	height: 64px;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	background-color:;
+	overflow-x: hidden;
+	margin: 0;
+	line-height: 1px;
+	
+
+}
+
+#nav > a {
+	-webkit-font-smoothing: antialiased;
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	padding: 22px;
+	padding-top: 15px;
+	letter-spacing: 1px;
+	float: right;
+	font-size: 14px;
+	opacity: 0.5;
+	font-weight: bold;
+	height: 100%;
+
+
+}
+#nav > a:hover {
+	/*background-color: rgb(40, 40,40);*/
+	/*transition: border-bottom-color .1s ease-out;*/
+	color: white;
+	opacity: 1.0;
+	transition: 0.2s;
+}
+h1 {
+	position: absolute;
+	top: 10%;
+	left: 20%;
+	font-family: avenir;
+	font-size: 60px;
+	color: rgb(80,80,80);
+}
+section {
+	position: absolute;
+	top: 30%;
+	left: 20%;
+}
+#priceRange,#select1 {
+	display: inline-block;
+	font-family: avenir;
+	font-size: 30px;
+}
+#roomType, .form-control {
+	display: inline-block;
+	font-family: avenir;
+	font-size: 30px;
+}
+#location,#select3 {
+	display: inline-block;
+	font-family: avenir;
+	font-size: 30px;
+
+}
+.btn1 {
+    position: absolute;
+	top: 110%;
+	left: 75%;
+    background-color: #9C27B0;
+    border: none;
+    font-size: 28px;
+    color: #FFFFFF;
+    padding: 20px;
+    width: 400px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.btn1:after {
+    content: "";
+    background: #90EE90;
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px!important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+
+.btn1:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 0s
+}
+select {
+    background-color:#9C27B0;
+    color: #FFF;
+    padding: 40px;
+}
+
+select * {
+    background-color:#9C27B0;
+    color:#FFF;
+}
+
+select *.red { /* This, miraculously, styles the '<option class="red"></option>' elements. */
+    background-color:#F00;
+    color:#FFF;
+}
+
+select *.white {
+    background-color:#FFF;
+    color:#000;
+}
+
+select *.blue {
+    background-color:#9C27B0;
+    color:#FFF;
+}
+#logoA {
+	position: absolute;
+	left: 20px;
+}
