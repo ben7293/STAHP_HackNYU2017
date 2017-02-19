@@ -41,3 +41,22 @@
 	position: absolute;
 	left: 15px;
 }
+body {
+	background-color: #F3E5F5;
+}    
+.lit {
+	text-align: center;
+	position: absolute;
+	top: 20px;
+	left: 32%;
+
+}
+.lit > a {
+ 	text-decoration: none;
+ 	font-family: avenir;
+ 	color:  #F3E5F5;
+ 	font-weight: ;
+ 	font-size: 25px;
+
+ 	
+}
