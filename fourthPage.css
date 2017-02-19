@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
 #navDiv {
 	background-color: #9C27B0; 
 	height: 64px;
@@ -53,10 +55,30 @@ body {
 }
 .lit > a {
  	text-decoration: none;
- 	font-family: avenir;
+ 	font-family: 'Nunito', sans-serif;
  	color:  #F3E5F5;
  	font-weight: ;
  	font-size: 25px;
 
  	
+}
+
+#Title{
+	margin-left: 60px;
+	margin-top: 30px;
+	font-family: 'Nunito', sans-serif;
+	color: #FFFFFF;
+}
+
+#floorPlan{
+	height:500px;
+	display: block;
+	margin: auto;
+	margin-top: 100px;
+}
+
+.btn1{
+	margin-top: 30px;
+	color: white;
+	background-color: purple;
 }
