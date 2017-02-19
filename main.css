@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
 .btn1 {
 	
 }
@@ -55,7 +57,7 @@ h1 {
 	top: 10%;
 	left: 30%;
 	text-align: center;
-	font-family: avenir;
+	font-family: 'Nunito', sans-serif;
 	font-size: 120px;
 	color: rgb(80,80,80);
 }
@@ -65,7 +67,7 @@ h3 {
 	left: 30%;
 	font-size: 60px;
 	color: rgb(80,80,80);
-	font-family: avenir;
+	font-family: 'Nunito', sans-serif;
 }
 .btn1 {
     position: absolute;
@@ -113,23 +115,31 @@ h3 {
 }
 .lit > a {
  	text-decoration: none;
- 	font-family: avenir;
+ 	font-family: 'Nunito', sans-serif;
  	color:  #F3E5F5;
  	font-size: 25px;
 }
 #hoe {
 	position: absolute;
 	top: 55%;
-	font-family: avenir;
+	font-family: 'Nunito', sans-serif;
 }
 h5 {
 	position: absolute;
-	font-family: avenir;
-	top: 50%;
+	margin-left: 30%;
+	margin-right: 30%;
+	font-family: 'Nunito', sans-serif;
+	top: 45%;
 }
 .text {
 	width: 400px;
 	background-color: blue;
+}
+#Title{
+	margin-left: 60px;
+	margin-top: 30px;
+	font-family: 'Nunito', sans-serif;
+	color: #FFFFFF;
 }
 
 

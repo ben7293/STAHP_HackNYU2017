@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
 body {
 	background-color: rgb(243,229,245);
 }
@@ -44,7 +46,7 @@ h1 {
 	position: absolute;
 	top: 10%;
 	left: 20%;
-	font-family: avenir;
+	font-family: 'Nunito', sans-serif;
 	font-size: 60px;
 	color: rgb(80,80,80);
 }
@@ -55,17 +57,17 @@ section {
 }
 #priceRange,#select1 {
 	display: inline-block;
-	font-family: avenir;
+	font-family: 'Nunito', sans-serif;
 	font-size: 30px;
 }
 #roomType, .form-control {
 	display: inline-block;
-	font-family: avenir;
+	font-family: 'Nunito', sans-serif;
 	font-size: 30px;
 }
 #location,#select3 {
 	display: inline-block;
-	font-family: avenir;
+	font-family: 'Nunito', sans-serif;
 	font-size: 30px;
 
 }
@@ -144,10 +146,17 @@ select *.blue {
 }
 .lit > a {
  	text-decoration: none;
- 	font-family: avenir;
+ 	font-family: 'Nunito', sans-serif;
  	color:  #F3E5F5;
  	font-weight: ;
  	font-size: 25px;
 
  	
+}
+
+#Title{
+	margin-left: 60px;
+	margin-top: 30px;
+	font-family: 'Nunito', sans-serif;
+	color: #FFFFFF;
 }

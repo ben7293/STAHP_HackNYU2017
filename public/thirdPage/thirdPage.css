@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
@@ -60,7 +62,7 @@ h2 {
 	position: absolute;
 	top: 15%;
 	left: 20%;
-	font-family: avenir;
+	font-family: 'Nunito', sans-serif;
 	font-size: 60px;
 	color: rgb(80,80,80);
 }
@@ -93,10 +95,17 @@ body {
 }
 .lit > a {
  	text-decoration: none;
- 	font-family: avenir;
+ 	font-family: 'Nunito', sans-serif;
  	color:  #F3E5F5;
  	font-weight: ;
  	font-size: 25px;
 
  	
 }
+#Title{
+	margin-left: 60px;
+	margin-top: 30px;
+	font-family: 'Nunito', sans-serif;
+	color: #FFFFFF;
+}
+
