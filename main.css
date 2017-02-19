@@ -115,12 +115,22 @@ h3 {
  	text-decoration: none;
  	font-family: avenir;
  	color:  #F3E5F5;
- 	font-weight: ;
  	font-size: 25px;
-
- 	
 }
-
+#hoe {
+	position: absolute;
+	top: 55%;
+	font-family: avenir;
+}
+h5 {
+	position: absolute;
+	font-family: avenir;
+	top: 50%;
+}
+.text {
+	width: 400px;
+	background-color: blue;
+}
 
 
 
