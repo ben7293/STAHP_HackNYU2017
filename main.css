@@ -3,6 +3,8 @@
 }
 body {
 	background-color: #F3E5F5;
+	max-height: 100%;
+	width: 100%;
 }
 
 #navDiv {
@@ -52,6 +54,7 @@ h1 {
 	position: absolute;
 	top: 10%;
 	left: 30%;
+	text-align: center;
 	font-family: avenir;
 	font-size: 120px;
 	color: rgb(80,80,80);
